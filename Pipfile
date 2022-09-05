@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+header = {editable = true, git = "https://github.com/hankadler/python-header"}
+logger = {editable = true, git = "https://github.com/hankadler/python-logger"}
+
+[requires]
+python_version = "3.6"

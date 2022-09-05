@@ -1,0 +1,31 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "4461db3eb90757c63b2aec8683a8931596657a7c78d5201fcbb1c85de617d5ef"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {
+        "header": {
+            "editable": true,
+            "git": "https://github.com/hankadler/python-header",
+            "ref": "560fbf4bd8bd980e42107c4148fa64e7370644a2"
+        },
+        "logger": {
+            "editable": true,
+            "git": "https://github.com/hankadler/python-logger",
+            "ref": "86d22ad8350f9153366598a4f2092204f5384a86"
+        }
+    }
+}

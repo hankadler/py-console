@@ -1,0 +1,14 @@
+# exclude
+*
+
+# include
+!/console
+!/console/*.py
+!/tests
+!/tests/*.py
+!.gitignore
+!LICENSE
+!Pipfile
+!Pipfile.lock
+!README.md
+!setup.py
