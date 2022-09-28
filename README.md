@@ -1,4 +1,4 @@
-# python-console
+# py-console
 
 A command-line interface
 
@@ -33,7 +33,7 @@ Options in the form of keyword arguments include:
 ```bash
 # assumption: you're working on project with pipenv
 pipenv shell
-pipenv install -e git+https://github.com/hankadler/python-console#egg=console
+pipenv install -e git+https://github.com/hankadler/py-console#egg=console
 ```
 
 ## Examples
